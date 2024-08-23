@@ -1,4 +1,4 @@
-🎯 Profile Map Explorer
+🎯 Profile Map Explorer : bynry.netlify.app
 
 📝 Overview
 Profile Map Explorer is a responsive web application built with React, Redux Toolkit, and Google Maps API. It allows users to view a list of profiles, each containing essential information like name, photograph, and description. Users can interactively explore the geographical locations associated with each profile on a map. The project focuses on providing a smooth user experience, featuring dynamic mapping, CRUD operations, search and filter capabilities, and responsive design.
