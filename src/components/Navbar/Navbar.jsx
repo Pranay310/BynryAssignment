@@ -50,7 +50,7 @@ const Navbar = () => {
 
     return (
         <nav className=' flex justify-center items-center bg-black'>
-            <div className='h-[10vh] md:w-[95vw] lg:w-[95vw] mx-auto mt-3 flex justify-between items-center border border-solid border-white rounded-2xl p-2'>
+            <div className='h-[10vh] md:w-[95vw] lg:w-[95vw] mx-auto mt-3 mb-3 flex justify-between items-center border border-solid border-white rounded-2xl p-2'>
                 {/* Brand Section */}
                 <div className='w-[50%] md:w-[25%] flex justify-center items-center gap-4 md:gap-20'>
                     <h1 className='text-lg md:text-xl tracking-wider'>@BYNRY</h1>
